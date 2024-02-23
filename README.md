@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/error074xd?theme=unicorn&font=Noto%20Serif%20Armenian&ext=heatmap)](https://leetcode.com/error074xd)
+![Leetcode Stats](https://leetcard.jacoblin.cool/PeemXD?theme=unicorn&font=Noto%20Serif%20Armenian&ext=heatmap)
