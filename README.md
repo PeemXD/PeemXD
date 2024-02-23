@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **PeemXD/PeemXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/PeemXD?theme=unicorn&font=Noto%20Serif%20Armenian&ext=heatmap)](https://leetcode.com/error074xd)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/error074xd)
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/error074xd?theme=unicorn&font=Noto%20Serif%20Armenian&ext=heatmap)](https://leetcode.com/error074xd)
